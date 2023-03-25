@@ -1,0 +1,97 @@
+@media (min-width: 1200px) {
+    .container{
+        max-width: 970px;
+    }
+}
+
+#logo img {
+    width: 80px;
+}
+#testimonials .img{
+    width: 80px;
+}
+
+#subtitle {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    float: left;
+    margin-right: 55px;
+}
+
+#subtitle .here {
+    width: 400px;
+    overflow: hidden;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.here img {
+    width: 400PX;
+}
+
+.subs {
+    background-color: deeppink;
+    color: #fff;
+    clear: left;
+    width:100%
+}
+
+.subs button {
+    width: 125px;
+    height: 45px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px 10px;
+    background-color: rgba(255, 255, 255, 0.2588235294);
+    color: #fff;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.subs .email-input {
+    width: 450px;
+    height: 30px;
+    border: 2px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #2c2c2c;
+    height: 250px;
+    color: #fff;
+    padding-top: 50px;
+}
+footer p {
+    margin-top: -30px;
+    font-weight: 80px;
+    margin-left: 40px;
+}
+
+footer h2 {
+    margin-left: 40px;
+    margin-bottom: 60px;
+}
+
+footer .media {
+    margin: auto;
+    float: inherit;
+    text-align: right;
+}
+footer .media .social img {
+    padding-bottom: 80px;
+    margin-top: -120px;
+    margin-right: 30px;
+    width: 40px;
+}
+footer .media .social p {
+    margin-top: -70px;
+    margin-right: 30px;
+}
+
+.kolom4{
+    clear: left;
+    width:100%
+  }
